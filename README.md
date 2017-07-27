@@ -1,3 +1,5 @@
+Forked, updated 2017-7-19
+
 ShadowsocksR for Windows
 =======================
 
